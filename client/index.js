@@ -29,7 +29,7 @@ function init() {
   ws.onmessage = (e) => showMessage(JSON.parse(e.data))
 
   // Handle a close event
-  ws.onclose = () => ws = null
+  ws.onclose = () => (ws = null)
 
 }
 

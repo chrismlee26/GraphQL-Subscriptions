@@ -1,8 +1,8 @@
 # Websockets & GraphQL
 
-FEW2.9 Assignment #7: Websockets
+FEW2.9 Assignment #7: WebSockets Lab
 
-- GraphQL
+- Express
 - WebSockets
 
 ### Run
